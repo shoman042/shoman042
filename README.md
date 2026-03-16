@@ -1,37 +1,47 @@
 # 👋 Hi, I'm Yusuf Shoman!
 
 ### 🎓 Computer Engineering Student @ Tanta University
-### 🚀 Data Engineer Trainee @ DEPI
+### 🚀 Data Engineer Trainee | Digital Egypt Pioneers Initiative (DEPI)
 
-I am a passionate **Computer Engineering student** with a strong focus on **Software Development** and **Data Engineering**. I enjoy solving real-world problems through clean, efficient code and building scalable data architectures.
-
----
-
-## 🛠 Tech Stack & Tools
-
-- **Data Engineering:** Apache Kafka, Apache Spark (PySpark), Apache Airflow.
-- **Languages:** Python, C++, Dart (Flutter), SQL.
-- **Tools & Platforms:** Docker, Git/GitHub, MySQL, Obsidian.
-- **Current Learning:** Artificial Intelligence & German Language (A1).
+I am a **Computer Engineering student** with a strong focus on **Software Development**, **Data Engineering**, and **Artificial Intelligence**. I am passionate about solving real-world problems through clean and efficient code, currently sharpening my skills through structured training and hands-on projects.
 
 ---
 
-## 🏗️ Featured Projects
+## 🛠 Tech Stack & Expertise
 
-- **[Real-time E-Commerce Pipeline V2](https://github.com/shoman042/realtime-ecommerce-pipeline-v2):** A complete ETL pipeline using Kafka, Spark, and Airflow to process e-commerce streams.
-- **Physics App:** A mobile application built with Flutter to help students learn physics through video content.
-- **Zombie Chase Simulation:** An A* algorithm implementation using Pygame.
-
----
-
-## 🎯 Career Goals & Connections
-
-- 💡 I am currently developing my technical skills through hands-on projects and practical training at **DEPI**.
-- 🤝 I am open to **freelance** and **internship** opportunities where I can contribute and grow.
-- ⚡ I'm always excited to connect with fellow developers and data enthusiasts!
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, C++, Dart (Flutter), SQL |
+| **Data Engineering** | Apache Kafka, Apache Spark, Apache Airflow |
+| **Infrastructure** | Docker, Docker Compose, Git/GitHub |
+| **Databases** | MySQL, PostgreSQL |
+| **Knowledge Mgmt** | Obsidian, Technical Documentation |
 
 ---
 
-## 📬 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Shoman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusufshoman/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:yusufshoman@gmail.com)
+## 🏗️ Featured Data Engineering Project
+### [Real-time E-Commerce Pipeline V2](https://github.com/shoman042/realtime-ecommerce-pipeline-v2)
+*A complete Medallion Architecture (Bronze to Silver) processing the Olist dataset.*
+- **Ingestion:** Kafka.
+- **Processing:** PySpark (Structured Streaming).
+- **Orchestration:** Airflow.
+- **Containerization:** Docker.
+
+---
+
+## 🎯 Career Objective & Interests
+- 💡 **Currently Developing:** Technical skills through DEPI and independent research.
+- 🤝 **Open to:** Freelance opportunities, Internships, and collaborations with industry professionals.
+- 🌍 **Languages:** Arabic (Native), English (Professional), German (Learning - A1).
+- 🌱 **Goal:** To grow into a highly skilled Software/Data Engineer and contribute to impactful AI solutions.
+
+---
+
+## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Shoman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufshoman-cpe42)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:yusufshoman@gmail.com)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoman042&show_icons=true&theme=tokyonight" alt="Yusuf's GitHub Stats" />
+</p>
