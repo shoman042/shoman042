@@ -12,7 +12,8 @@ I am passionate about solving real-world problems through clean and efficient co
 
 I am also open to freelance and internship opportunities to apply my knowledge, collaborate with industry professionals, and grow into a skilled software engineer.
 
-I am always excited to connect with fellow developers, data scientists, and anyone
+I am always excited to connect with fellow developers, data scientists, and anyone .
+
 
 ---
 
