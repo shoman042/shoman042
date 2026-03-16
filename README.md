@@ -1,48 +1,58 @@
-# 🚀 Yusuf Shoman
-**Computer Engineer | Data Engineer | AI Enthusiast**
+# 👨‍💻 Yusuf Shoman
+**Computer Engineering Student | Data Engineer Trainee**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoman042&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yusuf Stats" />
-</div>
+> Transforming raw data into valuable insights to support strategic decisions.
 
 ---
 
-### 👤 About Me
-I am a Computer Engineering student with a strong focus on Software Development and Artificial Intelligence. I am currently developing my technical skills through hands-on projects, structured online courses, and practical training within the Digital Egypt Pioneers Initiative (DEPI).
-
-I am passionate about solving real-world problems through clean and efficient code, with growing experience in Python, C++, and data engineering tools.
-
-I am also open to freelance and internship opportunities to apply my knowledge, collaborate with industry professionals, and grow into a skilled software engineer.
-
-I am always excited to connect with fellow developers, data scientists, and anyone
+### 🖋️ Profile Overview
+I am a **Computer Engineer** specializing in **Software Development**, **Data Engineering**, and **Artificial Intelligence**. Currently, I am honing my skills through the **Digital Egypt Pioneers Initiative (DEPI)** and hands-on projects that bridge the gap between raw data and actionable business intelligence.
 
 ---
 
-### 🛠 Technical Toolbox
-* [cite_start]**Data Engineering:** ETL/ELT Pipelines [cite: 253, 254][cite_start], Data Modeling [cite: 255, 256][cite_start], Workflow Orchestration (Airflow)[cite: 257, 258].
-* [cite_start]**Big Data & Cloud:** Apache Spark, Kafka, Hadoop, Azure Data Factory[cite: 230, 260].
-* [cite_start]**Programming:** Python (Pandas, SQLAlchemy, Faker) [cite: 240, 314, 387][cite_start], C++ (OOP) [cite: 240, 267][cite_start], SQL[cite: 242].
-* [cite_start]**Databases:** MySQL, PostgreSQL, SQL Server[cite: 235, 242].
-* [cite_start]**Infrastructure:** Docker, Docker Compose, Git[cite: 245].
+### 🛠️ Technical Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Data Engineering** | ETL/ELT Pipelines, Data Modeling, Kafka, Spark, Airflow, Azure Data Factory |
+| **Languages** | Python (Pandas, SQLAlchemy, Faker), C++ (OOP), SQL, Dart (Flutter) |
+| **Databases** | MySQL, PostgreSQL, SQL Server |
+| **Infrastructure** | Docker, Docker Compose, Git & GitHub |
+| **Soft Skills** | Problem Solving, Teamwork, Leadership, Attention to Detail |
 
 ---
 
-### 🏗️ Featured Engineering Projects
-* **[Real-time E-Commerce Pipeline V2](https://github.com/shoman042/realtime-ecommerce-pipeline-v2):** A production-grade ETL system using Kafka, PySpark, and Airflow.
-* [cite_start]**[Market Data Engineering Project](https://github.com/shoman042/Market-Data-Engineering-Project):** Integrated 12K+ transactions from mixed sources (JSON, CSV, SQL) with automated delta loads and CDC implementation[cite: 378, 380, 382, 385].
-* [cite_start]**[Bank Management System](https://github.com/shoman042/Market-Data-Engineering-Project):** A console-based banking application demonstrating advanced C++ OOP and file handling[cite: 263, 265, 267].
+### 🏗️ Featured Projects
+
+#### 🚀 [Real-time E-Commerce Pipeline V2](https://github.com/shoman042/realtime-ecommerce-pipeline-v2)
+An end-to-end Medallion Architecture implementation processing Olist dataset using **Kafka**, **PySpark**, and **Airflow** within **Docker** containers.
+
+#### 📊 [Market Data Engineering Project](https://github.com/shoman042/Market-Data-Engineering-Project)
+Integrated 12K+ transactions from diverse sources (JSON, CSV, SQL). Implemented automated delta loads and **Change Data Capture (CDC)** using SQL MERGE.
+
+#### 🏦 [Bank Management System](https://github.com/shoman042/Market-Data-Engineering-Project)
+A C++ console-based application demonstrating advanced **Object-Oriented Programming (OOP)**, file handling for data persistence, and error validation.
 
 ---
 
-### 🌐 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/yusufshoman-cpe42"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/1AWMbPAAKp/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/yusufshoman42/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:yusufshoman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoman042&show_icons=true&theme=distinguished&hide_border=true" alt="Yusuf's Stats" />
 </p>
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoman042&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
+
+### 🌐 Connect & Collaborate
+I am open to **freelance opportunities**, **internships**, and professional networking.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yusufshoman-cpe42"><b>LinkedIn</b></a> • 
+  <a href="https://www.facebook.com/share/1AWMbPAAKp/"><b>Facebook</b></a> • 
+  <a href="https://www.instagram.com/yusufshoman42/"><b>Instagram</b></a> • 
+  <a href="mailto:yusufshoman@gmail.com"><b>Email</b></a>
+</p>
+
+---
+<p align="center">
+  <i>"Continuously learning, evolving, and building for the future."</i>
+</p>
