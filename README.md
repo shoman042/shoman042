@@ -42,13 +42,6 @@ A C++ console-based application demonstrating advanced **Object-Oriented Program
 
 ---
 
-### 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoman042&show_icons=true&theme=distinguished&hide_border=true" alt="Yusuf's Stats" />
-</p>
-
----
-
 ### 🌐 Connect & Collaborate
 I am open to **freelance opportunities**, **internships**, and professional networking.
 
