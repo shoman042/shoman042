@@ -6,7 +6,13 @@
 ---
 
 ### 🖋️ Profile Overview
-I am a **Computer Engineer** specializing in **Software Development**, **Data Engineering**, and **Artificial Intelligence**. Currently, I am honing my skills through the **Digital Egypt Pioneers Initiative (DEPI)** and hands-on projects that bridge the gap between raw data and actionable business intelligence.
+I am a Computer Engineering student with a strong focus on Software Development and Artificial Intelligence. I am currently developing my technical skills through hands-on projects, structured online courses, and practical training within the Digital Egypt Pioneers Initiative (DEPI).
+
+I am passionate about solving real-world problems through clean and efficient code, with growing experience in Python, C++, and data engineering tools.
+
+I am also open to freelance and internship opportunities to apply my knowledge, collaborate with industry professionals, and grow into a skilled software engineer.
+
+I am always excited to connect with fellow developers, data scientists, and anyone
 
 ---
 
