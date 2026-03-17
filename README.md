@@ -34,12 +34,6 @@ I am always excited to connect with fellow developers, data scientists, and anyo
 #### 🚀 [Real-time E-Commerce Pipeline V2](https://github.com/shoman042/realtime-ecommerce-pipeline-v2)
 An end-to-end Medallion Architecture implementation processing Olist dataset using **Kafka**, **PySpark**, and **Airflow** within **Docker** containers.
 
-#### 📊 [Market Data Engineering Project](https://github.com/shoman042/Market-Data-Engineering-Project)
-Integrated 12K+ transactions from diverse sources (JSON, CSV, SQL). Implemented automated delta loads and **Change Data Capture (CDC)** using SQL MERGE.
-
-#### 🏦 [Bank Management System](https://github.com/shoman042/Market-Data-Engineering-Project)
-A C++ console-based application demonstrating advanced **Object-Oriented Programming (OOP)**, file handling for data persistence, and error validation.
-
 ---
 
 ### 🌐 Connect & Collaborate
